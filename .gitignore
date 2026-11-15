@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.res
+*.pdb
+*.bak*
+FH3DataOut.ini
+FH3DataOut.ini.*
+!FH3DataOut.ini.example
